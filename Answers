@@ -18,8 +18,8 @@
 18
 19 SELECT length, title FROM film_list ORDER BY length DESC;
 20
-21 select title from film_list where category = 'Horror';
-22
+21 SELECT title FROM film_list WHERE category = 'Horror';
+22 SELECT ID, name AS Full_Name FROM staff_list where ID = '1';
 23
 24
 25
