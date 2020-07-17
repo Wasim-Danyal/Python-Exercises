@@ -1,3 +1,4 @@
+
 def FinalGrades(per): 
     if per>= 70:
         return 'Congratulations! You got an A'
